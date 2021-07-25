@@ -1,8 +1,12 @@
 .container>nav>ul>li{
     display: inline;
     flex-direction: row;
-    justify-content: flex-start;
+    justify-content: space-between;
     font-style:poppins;
+    margin: 5px;
+}
+a{
+    text-decoration: none;
 }
 #two{
     color: #eaab1b;
@@ -12,4 +16,17 @@ font-style: poppins;
 color: black;
 display:flex;
 justify-content: start;
+}
+#three>h3{
+    color: ;
+}
+#four{
+  background-color: #C9ECB5;
+  font-style: poppins;
+}
+#four>h2{
+color: #6CB840;
+}
+#five{
+    background-color:#FFD77C ;
 }
