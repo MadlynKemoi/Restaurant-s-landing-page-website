@@ -2,12 +2,14 @@
     display: inline;
     flex-direction: row;
     justify-content: flex-start;
-    font-type:poppins;
+    font-style:poppins;
 }
 #two{
     color: #eaab1b;
 }
 #two>p{
-font-type: poppins;
+font-style: poppins;
 color: black;
+display:flex;
+justify-content: start;
 }
