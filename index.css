@@ -29,13 +29,29 @@ color:#6CB840
 }
 #five{
     background-color:#FFD77C ;
+    text-align: center;
+}
+#five>p{
+    text-align:center;
 }
 #Order{
      background-color:#6CB840;
-     border: none;
      color: white;
-     padding: 4px;
-     text-align: ;
-     left: 20px;
+     text-align: start;
+     margin-inline-end: 500px;
 }
-#id
+footer{
+    background-color: #C9ECB5;
+}
+#send{
+    background-color: #6CB840;
+    color: white;
+    margin: 40px;
+    text-align: center;
+    
+}
+#email{
+    background-color: white;
+    max: width 40px; ;
+
+}
