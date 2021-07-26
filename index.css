@@ -1,7 +1,7 @@
 .container>nav>ul>li{
     display: inline;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: space-evenly;
     font-style:poppins;
     margin: 5px;
 }
@@ -16,9 +16,6 @@ font-style: poppins;
 color: black;
 display:flex;
 justify-content: start;
-}
-#three>h3{
-    color: black;
 }
 #four{
   background-color: #C9ECB5;
@@ -61,8 +58,15 @@ footer{
     justify-content: space-between;
     width: 100%;
     margin: 70px;
-    background-color: ;
+    background-color: #C9ECB5;
 }
-#three{
-flex-direction: row;
+.third{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.others{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
 }
