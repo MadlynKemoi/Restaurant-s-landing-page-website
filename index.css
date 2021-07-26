@@ -1,12 +1,21 @@
-.container>nav>ul>li{
+nav>ul>li{
     display: inline;
-    flex-direction: row;
-    justify-content: space-evenly;
-    font-style:poppins;
-    margin: 5px;
+    justify-content: space-between;
+    margin: 30px;
 }
 a{
     text-decoration: none;
+    color: black;
+}
+nav{
+    /*text-align center:*/
+    display: flex;
+    align-items: center;
+}
+nav>ul{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
 }
 #two{
     color: #eaab1b;
@@ -90,4 +99,14 @@ footer{
 }
 #food{
     color: #EAAB1B;
+}
+#two>h3{
+    color:#EAAB1B;
+}
+.all{
+    background-color:#C9ECB5 ;
+    text-align: start;
+}
+.container{
+    font-style: "poppins";
 }
