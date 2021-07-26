@@ -63,3 +63,6 @@ footer{
     margin: 70px;
     background-color: ;
 }
+#three{
+flex-direction: row;
+}
