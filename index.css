@@ -70,3 +70,24 @@ footer{
     flex-direction: row;
     justify-content: space-between;
 }
+.combo{
+    background-color:#C9ECB5 ;
+}
+#content>h3{
+    color:#6CB840  ;
+}
+#deals{
+    color:#6CB840 ;
+}
+#us{
+    color:#6CB840 ;
+}
+#Menu{
+    color:#6CB840 ;
+}
+.header1{
+    color:#6CB840 ;
+}
+#food{
+    color: #EAAB1B;
+}
