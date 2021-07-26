@@ -1,112 +1,141 @@
-nav>ul>li{
+nav>ul>li {
     display: inline;
     justify-content: space-between;
     margin: 30px;
 }
-a{
+
+a {
     text-decoration: none;
     color: black;
 }
-nav{
+
+nav {
     /*text-align center:*/
     display: flex;
     align-items: center;
 }
-nav>ul{
+
+nav>ul {
     display: flex;
     flex-direction: row;
     align-items: center;
 }
-#two{
+
+#two {
     color: #eaab1b;
 }
-#two>p{
-font-style: poppins;
-color: black;
-display:flex;
-justify-content: start;
+
+#two>p {
+    font-style: poppins;
+    color: black;
+    display: flex;
+    justify-content: start;
 }
-#four{
-  background-color: #C9ECB5;
-  font-style: poppins;
+
+#four {
+    background-color: #C9ECB5;
+    font-style: poppins;
 }
-#four>h2{
-color:#6CB840
+
+#four>h2 {
+    color: #6CB840
 }
-#five{
-    background-color:#FFD77C ;
+
+#five {
+    background-color: #FFD77C;
     text-align: center;
 }
-#five>p{
-    text-align:center;
+
+#five>p {
+    text-align: center;
 }
-#Order{
-     background-color:#6CB840;
-     color: white;
-     text-align: start;
-     margin-inline-end: 500px;
+
+#Order {
+    background-color: #6CB840;
+    color: white;
+    text-align: start;
+    margin-inline-end: 500px;
 }
-footer{
+
+footer {
     background-color: #C9ECB5;
 }
-#send{
+
+#send {
     background-color: #6CB840;
     color: white;
     margin: 40px;
     text-align: center;
-    
-}
-#email{
-    background-color: white;
-    max: width 40px; ;
 
 }
-.all{
+
+#email {
+    background-color: white;
+    max: width 40px;
+    ;
+
+}
+
+.all {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     width: 100%;
-    margin: 70px;
+    margin: 100px;
     background-color: #C9ECB5;
 }
-.third{
+
+.third {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
 }
-.others{
+
+.others {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
 }
-.combo{
-    background-color:#C9ECB5 ;
+
+.combo {
+    background-color: #C9ECB5;
 }
-#content>h3{
-    color:#6CB840  ;
+
+#content>h3 {
+    color: #6CB840;
 }
-#deals{
-    color:#6CB840 ;
+
+#deals {
+    color: #6CB840;
 }
-#us{
-    color:#6CB840 ;
+
+#us {
+    color: #6CB840;
 }
-#Menu{
-    color:#6CB840 ;
+
+#Menu {
+    color: #6CB840;
 }
-.header1{
-    color:#6CB840 ;
+
+.header1 {
+    color: #6CB840;
 }
-#food{
+
+#food {
     color: #EAAB1B;
 }
-#two>h3{
-    color:#EAAB1B;
+
+#two>h3 {
+    color: #EAAB1B;
 }
-.all{
-    background-color:#C9ECB5 ;
-    text-align: start;
+
+.container {
+    font-style: "poppins"
 }
-.container{
-    font-style: "poppins";
+
+#one{
+    margin-left: 50px;
+    text-align: justify;
+    display: flex;
+    flex-direction: column;
 }
